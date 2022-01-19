@@ -22,9 +22,6 @@
       "me.jvav.fucklog.FuckLog"
     ]
   },
-  "mixins": [
-    "fucklog.mixins.json"
-  ],
 
   "depends": {
     "fabricloader": ">=0.11.3",
